@@ -1,8 +1,8 @@
 import mysql from "mysql"
 
 export const db = mysql.createConnection({
-    host: "containers-us-west-209.railway.app",
-    user: "root",
-    password: "NAq62PWvnEuwgH7r6UEO",
-    database: "railway"
+    host: "bc9upqx0nbamjnpolfnl-mysql.services.clever-cloud.com",
+    user: "ueegjw6lakm9lbcp",
+    password: "032QL7MNmmYbLmD6xhdR",
+    database: "bc9upqx0nbamjnpolfnl"
 })
